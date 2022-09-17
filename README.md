@@ -15,3 +15,7 @@ Compile and run the application with **make all** command in the root directory.
 - Quicksort
 - Bubble sort
 - Insertion sort
+
+### GIF
+
+![Animation](https://user-images.githubusercontent.com/92727936/190877772-b6d0cbcc-510a-477a-a79a-f7caf37e62fd.gif)
