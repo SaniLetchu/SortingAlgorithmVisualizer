@@ -19,6 +19,7 @@ After sorting is done, **ESC** key redirects back to menu.
 - Quicksort
 - Bubble sort
 - Insertion sort
+- Might add more later...
 
 ### GIF
 
