@@ -12,7 +12,7 @@ Compile and run the application with **make all** command in the root directory.
 
 ### Usage
 
-After sorting is done, **ESC** key directs back to menu.
+After sorting is done, **ESC** key redirects back to menu.
 
 ### Algorithms
 
