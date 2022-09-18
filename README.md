@@ -10,6 +10,10 @@ SFML application that visualizes some of the basic sorting algorithms.
 
 Compile and run the application with **make all** command in the root directory.
 
+### Usage
+
+After sorting is done, **ESC** key directs back to menu.
+
 ### Algorithms
 
 - Quicksort
